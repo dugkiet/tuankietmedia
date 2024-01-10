@@ -23,6 +23,7 @@ export default function Root() {
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <Body>
+        <a href="https://tuankiet.media/">Tuân Kiệt Media</a>
         <Suspense>
           <ErrorBoundary>
             <A href="/">Index</A>
